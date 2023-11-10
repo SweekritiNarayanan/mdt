@@ -1,0 +1,25 @@
+﻿ID1,DU
+AMDI_0001_I_0001_1,Welkom bij het testen van melodisch geheugen!
+AMDI_0002_I_0001_1,Bij elke testtaak hoor je drie versies van dezelfde melodie.\\De versies verschillen in toonhoogte waarbij elke volgende melodie een toon hoger is dan de vorige.\\Echter één van de melodieën is overbodig omdat één van de melodieën overbodig is. de noten zijn erin vervangen. \\Jouw taak is om te bepalen welke van de melodieën overbodig is. 
+AMDI_0003_I_0001_1,In dit voorbeeld is de tweede melodie overbodig.
+AMDI_0004_I_0001_1,Probeer nu zelf een paar voorbeelden te doen.\\Deze melodieën zijn nog niet bekend bij jou.
+AMDI_0005_I_0001_1,Welke melodie was overbodig?
+AMDI_0006_I_0001_1,**Correct!**
+AMDI_0007_I_0001_1,De eerste melodie was overbodig.
+AMDI_0008_I_0001_1,Wil je teruggaan naar de instructies en het opnieuw proberen?
+AMDI_0008_R_0001_1,Ja ik wil teruggaan
+AMDI_0008_R_0002_1,Nee ik ben klaar om de hoofdtest te beginnen
+AMDI_0009_I_0001_1,De test begint nu  waarbij je {{test_length}} opdrachten krijgt die vergelijkbaar zijn met de vorige.\\Maak je geen zorgen als sommige opdrachten erg moeilijk lijken. Als je niet zeker weet welk antwoord juist is probeer dan te raden!
+AMDI_0010_I_0001_1,**Onjuist.**
+AMDI_0011_I_0001_1,Opdracht {{num_question}} van {{test_length}}
+AMDI_0012_I_0001_1,De derde melodie is overbodig.
+AMDI_0013_I_0001_1,Welke melodie was overbodig?
+AMDI_0014_I_0001_1,Je hebt de test voor het onthouden van melodieën voltooid!
+AMDI_0015_I_0001_1,Druk op om af te sluiten.
+AMDI_0016_I_0001_1,Doorgaan
+AMDI_0017_I_0001_1,Jouw vermogen om melodieën te onthouden:
+AMDI_0018_I_0001_1,Vermogen om melodieën te onthouden
+enter_p_id,Vul de deelnemersnaam in.
+results_have_been_saved,Je resultaat is opgeslagen.
+you_may_close_browser,Je kunt nu het browservenster sluiten.
+demo_intro,Welkom bij de **Melodic Discrimination Test**!\\Deze test past zich aan op basis van jouw prestaties. Als je het goed doet krijg je moeilijkere opdrachten.\\Normaal gesproken is dit aanpassingsproces verborgen voor de deelnemer. Voor deze demonstratie laten we echter je lopende prestatiescore en het overeenkomstige moeilijkheidsniveau zien bij elke opdracht.
