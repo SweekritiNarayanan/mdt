@@ -31,7 +31,7 @@ stopifnot(!anyDuplicated(input$key),
           all(input$key == latvian$key))
 input$LV <- latvian$LV
 
-dutch <- read.csv("data-raw/dict-dutch.csv", stringsAsFactors = FALSE, encoding = "utf-8")
+dutch <- read.csv("data-raw/dict-russ.csv", stringsAsFactors = FALSE, encoding = "utf-8")
 names(dutch)[[1]] <- "key"
 stopifnot(!anyDuplicated(input$key),
           all(input$key == dutch$key))
