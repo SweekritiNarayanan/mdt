@@ -24,8 +24,8 @@ instructions <- function(media_dir, num_items) {
         info_page("AMDI_0002_I_0001_1"),
         audio_ex_page("AMDI_0003_I_0001_1", file.path(media_dir, "examples/ex1.mp3")),
         info_page("AMDI_0004_I_0001_1"),
-        practice(media_dir),
-        ask_repeat()
+        practice(media_dir) #,
+        #ask_repeat()
       )),
     psychTestR::one_button_page(psychTestR::i18n(
       "AMDI_0009_I_0001_1", sub = list(test_length = num_items)
