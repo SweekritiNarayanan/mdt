@@ -37,8 +37,8 @@ ask_repeat <- function() {
   psychTestR::NAFC_page(
     label = "ask_repeat",
     prompt = shiny::HTML(psychTestR::i18n("AMDI_0008_I_0001_1")),
-    choices = c("go_back", "continue"),
-    labels = lapply(c("AMDI_0008_R_0001_1", "AMDI_0008_R_0002_1"), psychTestR::i18n),
+    choices = c("continue"),
+    labels = lapply(c( "AMDI_0008_R_0002_1"), psychTestR::i18n),
     save_answer = FALSE,
     arrange_vertically = TRUE,
     on_complete = function(state, answer, ...) {
