@@ -6,7 +6,7 @@ AMDI_0004_I_0001_1,Probeer nu enkele voorbeelden zelf uit te voeren. Deze melodi
 AMDI_0005_I_0001_1,Welke van de melodieën was onjuist?
 AMDI_0006_I_0001_1,**Juist!**
 AMDI_0007_I_0001_1,De eerste melodie was onjuist.
-AMDI_0008_I_0001_1,The practice ends now.Click next to begin the test. If you have any questions ask the researched
+AMDI_0008_I_0001_1,Wilt u teruggaan naar de instructies en het opnieuw proberen?
 "AMDI_0008_R_0001_1,""Ja, ik wil teruggaan."""
 "AMDI_0008_R_0002_1,""Nee, ik ben klaar om de hoofdtest te starten."""
 "AMDI_0009_I_0001_1,""De test begint nu, waarbij u {{test_length}} taken krijgt die vergelijkbaar zijn met de voorgaande. Maak u geen zorgen als sommige taken erg moeilijk lijken. Als u niet zeker weet welk antwoord juist is, probeer dan te raden!"""
